@@ -22,7 +22,7 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 - **API Architecture**: RESTful, WebSocket
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=bootstrap,react,nextjs)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs)](https://skillicons.dev)
 
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
