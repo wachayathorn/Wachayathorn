@@ -14,7 +14,7 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=go,javascript,typescript,java,cs)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=go,javascript,typescript,java,kotlin,cs)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=go,express,nestjs,graphql,spring,dotnet)](https://skillicons.dev)
@@ -30,7 +30,7 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 - **Database Version Control**: Liquibase, Atlasgo
 
 ### Cloud & DevOps
-[![Cloud & DevOps](https://skillicons.dev/icons?i=gcp,firebase,cloudflare,docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
 - **Deployment Tools**: Kaniko, Spinnaker
 
 ### Message Queue
