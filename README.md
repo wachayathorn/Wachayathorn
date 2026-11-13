@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Wachayathorn Singsena</h1>
-<h3 align="center">Call me "Night" | Software Engineer</h3>
+<h3 align="center">Call me "Night" | Senior Engineer at Ascend Money</h3>
 
 ## 👨‍💻 About Me
 
-Software Engineer with **5+ years of experience**, specializing in building **scalable microservices** and **high-performance APIs**. Skilled in concurrency, distributed systems, and optimizing backend architectures for reliability. Experienced in API design, database design, message queues, and cloud-native infrastructure.
+Software Engineer with **6+ years of experience**, specializing in building **scalable microservices** and **high-performance APIs**. Skilled in concurrency, distributed systems, and optimizing backend architectures for reliability. Experienced in API design, database design, message queues, and cloud-native infrastructure.
 
-- 🔭 Currently working as **Software Engineer**
+- 🔭 **Senior Engineer** · Ascend Money · Nov 2026 – Present
+- 🏢 **Innovation Engineer** · KBTG · Apr 2022 – Oct 2026
+- 🏢 **Backend Developer** · RV Connex · Jul 2020 – Feb 2022
+- 🏢 **Backend Developer** · Bluewind Solution · Jun 2019 – Oct 2019
 - 💼 Expertise in backend development, microservices architecture, and cloud infrastructure
 - 🚀 Experienced in building systems that handle high-traffic and complex business logic
 - 🛠️ Strong background in DevOps practices, CI/CD, and infrastructure automation
@@ -40,7 +43,7 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
 ### Others
-[![Others](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
 - **Testing Tools**: K6, JMeter
 - **Documentation**: Swagger/OpenAPI
 - **Management**: Jira, Confluence, Odoo
