@@ -21,12 +21,12 @@ Software Engineer with at least six years of experience. Specializes in scalable
 ## 🛠️ Technical Stack
 
 ### 💻 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=go,javascript,typescript,java,kotlin,cs)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=go,javascript,typescript,java,kotlin)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=go,express,nestjs,graphql,spring,dotnet)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=express,nestjs,spring)](https://skillicons.dev)
 - **Go**: Gin, Echo, Fiber, gRPC
-- **API architecture**: REST, WebSocket
+- **API architecture**: REST, GraphQL, WebSocket
 
 ### 🖼️ Frontend
 [![Frontend](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs)](https://skillicons.dev)
